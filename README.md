@@ -8,6 +8,9 @@
 #### Stage 3 is done:
 
 
+## Directory Structure
+
+```text
 <project-root>/
 ├── data/
 │   └── stage_3_data/
