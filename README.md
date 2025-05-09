@@ -1,15 +1,11 @@
 # deepLearning
 
-#### Stage 2 is done
-
-![My Hand draw](hand_Draw.png)
-
-
 #### Stage 3 is done:
+#### Implementation link
 
-![First line](03267d81-003a-4450-bcbd-8639d04b56de.png)
+![First run](03267d81-003a-4450-bcbd-8639d04b56de.png)
 
-!()
+![second_run](f9f5afed-1089-4326-841a-fe169ecdf5ec.png)
 
 ## Directory Structure
 
@@ -41,4 +37,8 @@ python -m script.stage_3_script.run \
 and 
 python script/stage_3_script/3.5.py
 ![image.png]
+
+#### Stage 2 is done
+
+![My Hand draw](hand_Draw.png)
 
