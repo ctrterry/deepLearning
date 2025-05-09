@@ -33,5 +33,9 @@ how to run:
 python -m script.stage_3_script.run \
     --epochs 10 \
     --epochs-cifar 30
+![image](https://github.com/user-attachments/assets/1e755f01-008c-485b-87ec-6f32bcbeeb51)
+
 and 
 python script/stage_3_script/3.5.py
+![image](https://github.com/user-attachments/assets/898bdafb-3516-4d73-b7fa-fc88d8d7d391)
+
